@@ -1,0 +1,53 @@
+Rollback Evidence
+
+Project: COVID-19 Global Impact Dashboard
+
+1. Purpose
+
+This document records the project files and screenshots used as evidence of the work completed during the COVID-19 Global Impact Dashboard project.
+
+2. Original Dataset
+
+The original COVID-19 dataset was downloaded from Our World in Data.
+
+3. Processed Dataset
+
+The dataset was cleaned and saved as:
+
+"COVID-19 Cleaned Analysis.csv"
+
+4. Tableau Dashboard
+
+A Tableau workbook was created to visualize reported COVID-19 cases, deaths, and country-level comparisons using the available fields.
+
+5. Evidence Files
+
+The following screenshots should be retained:
+
+- Original dataset or data source screen
+- Data cleaning output showing successful file creation
+- Daily COVID-19 cases chart
+- Daily COVID-19 deaths chart
+- Country-level comparison charts
+- Final Tableau dashboard
+- Saved Tableau workbook
+
+6. Rollback and Recovery
+
+The original dataset should be retained separately from the cleaned dataset.
+
+If an accidental change occurs:
+
+1. Keep a backup of the original dataset.
+2. Reopen the saved Tableau workbook.
+3. Reconnect to the cleaned dataset if required.
+4. Recreate or restore affected worksheets using the saved workbook and evidence screenshots.
+5. Save the corrected workbook as a new version before replacing the previous copy.
+
+7. Current Status
+
+The Tableau dashboard has been saved. The available project files and screenshots should be checked before final submission.
+
+8. Conclusion
+
+This evidence document supports project tracking and recovery by recording the dataset, workbook, and screenshots associated with the analysis.
